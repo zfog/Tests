@@ -29,7 +29,7 @@ public class SelectionSort {
             SortArr.arr[i] = SortArr.arr[k];
             SortArr.arr[k] = temp;
         }
-        System.out.println(Arrays.toString(SortArr.arr));
+//        System.out.println(Arrays.toString(SortArr.arr));
 
     }
 }
