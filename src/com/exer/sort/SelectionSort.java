@@ -1,7 +1,5 @@
 package com.exer.sort;
 
-import java.util.Arrays;
-
 /**
  * 选择排序
  *
